@@ -1,7 +1,7 @@
 # Experiment
 This is the Repository containing python tool for our Research Experiment
 
-The Project contains a python Scripts DAPS Extractor.py.
+The Project contains a python Scripts DAPS_Extractor.py.
 The requirements.txt file contains List of all necessary libraries. To install use command
 pip install -r requirements.txt
 
