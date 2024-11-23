@@ -1,13 +1,9 @@
 # Experiment
-This is the Repository containing python tools for our Research Experiment
+This is the Repository containing python tool for our Research Experiment
 
-The Project contains two python Scripts TRON Finder & DAPS Extractor.
+The Project contains a python Scripts DAPS Extractor.py.
 The requirements.txt file contains List of all necessary libraries. To install use command
 pip install -r requirements.txt
-
-Command to run TRON Finder
-python Tron_Finder.py -f <File_to_Scan>
-
 
 DAPS extractor
 Change the path of file to be scan in DUMP_FILE variable from "H:\\USD Tether on TRON Experiment\\Tron from Ledger\\Disk AT\\DiskAT.E01" to your image path.
